@@ -1,4 +1,16 @@
 ##summary
+# HVAC Silence2 
+## Summary
+ 
+HVAC Silence is an AI-powered HVAC monitoring and predictive maintenance system designed to detect faults before they affect building occupants or result in equipment failure. By analysing data from Building Management Systems (BMS), sensors, and equipment history, the system can identify abnormal performance, diagnose likely causes, and recommend corrective actions.
+
+The goal of HVAC Silence is to help Facilities Managers and maintenance teams move from reactive maintenance to proactive maintenance. By identifying issues such as failing sensors, faulty valves, inefficient equipment operation, and excessive energy consumption at an early stage, the system can improve occupant comfort, reduce energy costs, extend equipment life, and minimise downtime.
+ 
+HVAC Silence acts as a virtual HVAC specialist, continuously monitoring building performance and providing actionable insights to ensure HVAC systems remain efficient, reliable, and largely unnoticed by building users.
+ 
+## Background
+ 
+HVAC systems are one of the most important services within a building...
 # my-new-project
 HVAC Silence Fault detection Project 
 # HVAC Silence
